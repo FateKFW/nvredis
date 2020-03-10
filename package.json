@@ -1,0 +1,14 @@
+{
+  "name": "nvredis",
+  "version": "1.0.0",
+  "description": "redis可视化前端工具",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "RDZ",
+  "license": "ISC",
+  "dependencies": {
+    "redis": "^2.8.0"
+  }
+}
